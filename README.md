@@ -1,1 +1,4 @@
 # house-price-prediction
+This project aims to predict house prices using machine learning, leveraging a dataset sourced from [provide_dataset_source_link_here]. The model focuses on key features such as square footage, bedrooms, and location to accurately estimate house prices. The primary objectives include achieving high prediction accuracy, conducting insightful data analysis, and selecting the most effective regression algorithm through experimentation.
+
+The dataset encompasses comprehensive information crucial for training and evaluating the prediction model. Features considered in the model range from square footage and bedrooms to location and amenities. The methodology involves data preprocessing, exploratory data analysis (EDA) for visualizing and understanding the dataset, model training with various regression algorithms, and evaluating performance using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-square
